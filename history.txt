@@ -1,0 +1,6 @@
+#V2
+(contract-call? .donation-tracker create-project "Education Fund for Girls" "Providing scholarships for primary education.")
+(contract-call? .donation-tracker get-project u0)
+(contract-call? .donation-tracker create-project "Water Wells for Africa" "Building clean water sources.")
+(contract-call? .donation-tracker donate-to-project u0 u1000000)
+(contract-call? .donation-tracker get-project u0)
