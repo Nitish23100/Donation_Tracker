@@ -56,12 +56,6 @@ We aim to eliminate the opacity that often surrounds charitable donations, creat
 
 ## Contract Address
 
-ST24ZQMVAN7ZWGX7QXX8MFM335H6FPBMY99FH9PQG.donation-tracker
-
-<img width="1851" height="934" alt="image" src="https://github.com/user-attachments/assets/2db0e095-dbb0-4f4d-9edf-11a932d55ef8" />
-
-
-
 ### Testnet Deployment
 ```
 Contract Name: donation-tracker
