@@ -31,6 +31,10 @@ Our vision is to revolutionize charitable giving by creating a trustless, transp
 - **Blockchain Technology** serves as the foundation for a new era of transparent philanthropy
 
 We aim to eliminate the opacity that often surrounds charitable donations, creating a world where every contribution can be tracked from donor to beneficiary, fostering greater trust and encouraging more people to participate in charitable giving.
+Stacks Sumary--
+
+<img width="1851" height="934" alt="image" src="https://github.com/user-attachments/assets/2db0e095-dbb0-4f4d-9edf-11a932d55ef8" />
+
 
 ## Future Scope
 
